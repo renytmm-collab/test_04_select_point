@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "scope": "12 known instances from three supplied pilots; not a complete historical registry; no labels imported",
+  "instances": [
+    {
+      "batch": "old-pilot",
+      "instance": 0,
+      "content_sha256": "c788a6eddda79d7db3c0c45dd45795ceb23959e6e99ad30c09fb54b5acac7bf2",
+      "source_relative": "实验结果/pilot-v1/shard-000/instances/0/table-0.json"
+    },
+    {
+      "batch": "old-pilot",
+      "instance": 1,
+      "content_sha256": "1ce0f047bbdb851f57f3d59d3f7793c5ce1b8989e2b915238debc5c8a2ae86f1",
+      "source_relative": "实验结果/pilot-v1/shard-000/instances/1/table-0.json"
+    },
+    {
+      "batch": "old-pilot",
+      "instance": 2,
+      "content_sha256": "f13de6e658a1366ebd0ff40e0590733d6ced8b37bfee51cbae43066396319d79",
+      "source_relative": "实验结果/pilot-v1/shard-000/instances/2/table-0.json"
+    },
+    {
+      "batch": "old-pilot",
+      "instance": 3,
+      "content_sha256": "6bc74d638f360a45abf77aa9bee961d09d1fbe9771bdf67d9da7243b9c39d2d6",
+      "source_relative": "实验结果/pilot-v1/shard-000/instances/3/table-0.json"
+    },
+    {
+      "batch": "second-pilot",
+      "instance": 0,
+      "content_sha256": "a732d8842604942d62efea88bcb4231ac2d9c438661d93a6ba94d04b5d5e7075",
+      "source_relative": "第二次改进实验的结果/pilot-diagnostic-v2/shard-000/instances/0/table-0.json"
+    },
+    {
+      "batch": "second-pilot",
+      "instance": 1,
+      "content_sha256": "6378563b381116c88853d1dbee418d16d791276ff4f871ee48dc32918a5a5704",
+      "source_relative": "第二次改进实验的结果/pilot-diagnostic-v2/shard-000/instances/1/table-0.json"
+    },
+    {
+      "batch": "second-pilot",
+      "instance": 2,
+      "content_sha256": "acea7822af32d29083d5e2c36c69ea9bd2d6464ee10e4eb083dc199d914931cb",
+      "source_relative": "第二次改进实验的结果/pilot-diagnostic-v2/shard-000/instances/2/table-0.json"
+    },
+    {
+      "batch": "second-pilot",
+      "instance": 3,
+      "content_sha256": "da9b990d17b24b4f28a4beeed05726ef073abc3631f3a485d665539ca3d41852",
+      "source_relative": "第二次改进实验的结果/pilot-diagnostic-v2/shard-000/instances/3/table-0.json"
+    },
+    {
+      "batch": "point-pilot-001",
+      "instance": 0,
+      "content_sha256": "3fb82ffb3490752b869bc98d0c26f78ced5d33e8071bbc32acaa000ec7af1960",
+      "source_relative": "第三次改进实验的结果-point/pilot-001/catalog.json"
+    },
+    {
+      "batch": "point-pilot-001",
+      "instance": 1,
+      "content_sha256": "1f1a118fb923ff974ed384433533ab3e1c6280fb423abf689e535f0c3bed1baa",
+      "source_relative": "第三次改进实验的结果-point/pilot-001/catalog.json"
+    },
+    {
+      "batch": "point-pilot-001",
+      "instance": 2,
+      "content_sha256": "856e0716eded453b5f6387f2b062f11812112851d704f33d4058a3002c276d18",
+      "source_relative": "第三次改进实验的结果-point/pilot-001/catalog.json"
+    },
+    {
+      "batch": "point-pilot-001",
+      "instance": 3,
+      "content_sha256": "1cd61ba85a8a09739142fef2404d288be7d1429d2e974e45e5ace6723ca2e74a",
+      "source_relative": "第三次改进实验的结果-point/pilot-001/catalog.json"
+    }
+  ]
+}

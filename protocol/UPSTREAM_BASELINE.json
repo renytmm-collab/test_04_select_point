@@ -1,0 +1,86 @@
+{
+  "repository": "https://github.com/ahottung/NLNS.git",
+  "files": [
+    {
+      "local_sha256": "3cfed041d0d1f5b995bf72e4abec38156ec3065b48164f7cc8d31e0ba8baf721",
+      "git_blob_sha1": "1ef19cdc6c49f03dbd1f765a3720fe657ddb5e5b",
+      "path": "actor.py"
+    },
+    {
+      "local_sha256": "0ae1d9fbcf01611b4e30092994858e941fb1977eb71f180c6a7dffef71ae6582",
+      "git_blob_sha1": "8bbf5045e7a6c2c95511ec77ed86e6c6878c0000",
+      "path": "config.py"
+    },
+    {
+      "local_sha256": "ff659f949b0de01bb64cc895e7b160c4ef66f20078a74fa87a9ff9f6e01d8c63",
+      "git_blob_sha1": "5870e4513d8597a736ae483dc8840d6a43f61628",
+      "path": "critic.py"
+    },
+    {
+      "local_sha256": "3c230b9921fc9b6c6fe3255d0d4f08611a32c91c64c94b4468f79a4b4cd3c18b",
+      "git_blob_sha1": "0ed1e7e5e9f875be12a0ce10aa6a83b5a7f71dae",
+      "path": "generate_instances.py"
+    },
+    {
+      "local_sha256": "624d0bb0a02ab20c3e3443bbc088402f8b3796ad3da207a0cbb2d16b371570a1",
+      "git_blob_sha1": "8dff06a4386c33bd0a78a30bbe4de94016315364",
+      "path": "main.py"
+    },
+    {
+      "local_sha256": "855f7571d0e3946dcc96aebb927772a48007643cbacc0fe96620bae7b2ef280f",
+      "git_blob_sha1": "7fd1b4df4f657e30df7639375a9d9f9e3c32feae",
+      "path": "repair.py"
+    },
+    {
+      "local_sha256": "53eebc29fe06d7e12ccbed9bd83097cf6193a8b0da33b11f114bb92fdf873700",
+      "git_blob_sha1": "f97094ba7cf673eb319d3573ca57f4bb39ed9a22",
+      "path": "search.py"
+    },
+    {
+      "local_sha256": "1fac077ac7fac9c1e6d223ae4be6f5488165e4531085dad8565d0837496fa41d",
+      "git_blob_sha1": "a2e28bfbba7403bc91708db6740b109aa3a12f10",
+      "path": "search_batch.py"
+    },
+    {
+      "local_sha256": "a9d2e643300a921cc61f7327d19751e9d3b8026d2c4f47db948842bf29788464",
+      "git_blob_sha1": "44e5f9cd6fb34df90f0b4c7564b2c326da4d6da6",
+      "path": "search_single.py"
+    },
+    {
+      "local_sha256": "ca177c95b25b77610b88bfe429a651ec73553f259d6b34e303c7dcf081d6074f",
+      "git_blob_sha1": "d7a95b80a08db94c47afedfa924c628788bb0730",
+      "path": "train.py"
+    },
+    {
+      "local_sha256": "ca65a011a3789e531172af936fb7334593818d364822fb149221fb2df182e07d",
+      "git_blob_sha1": "16204751e15f1b03c08992addfdafa67c477a8e9",
+      "path": "vrp/data_utils.py"
+    },
+    {
+      "local_sha256": "32770ff2118ffd874f8b605cd66dfe6fa4df360beaf8706d5259faa3ac201bf9",
+      "git_blob_sha1": "07581c0d71d8c40d25bb895499ba8ddd83df6941",
+      "path": "vrp/vrp_problem.py"
+    },
+    {
+      "local_sha256": "6a78f9e1ba30c622c586f38d47962b62a42027850b4649d9a941556c8ea97f6f",
+      "git_blob_sha1": "be5c07a7a07c96004fc306fa6b1e22da1e468ee0",
+      "path": "vrp/dataset_blueprints/ALTR.py"
+    },
+    {
+      "local_sha256": "1af1bbcb29c94195de0a13192cc5473b0811deb65b4235ba9cd792c96440746e",
+      "git_blob_sha1": "f3f736863f427b34b1401d65048c123362b8a17e",
+      "path": "vrp/dataset_blueprints/S.py"
+    },
+    {
+      "local_sha256": "e4d98ec0cfcd2a869175059d67f73333870adfd4e4d90ebc815db78b95cb2f37",
+      "git_blob_sha1": "6b936fd80eccc3d5e10616306d76b0544b2810e5",
+      "path": "vrp/dataset_blueprints/XE.py"
+    },
+    {
+      "local_sha256": "777178c30819f73b387674c29a2430cc06b0fda876792d5e08137d5ea3f94cf8",
+      "git_blob_sha1": "634737c8dca94a5eed1e9280e2bff5039203b5ea",
+      "path": "trained_models/cvrp/altr_C_100/model_incumbent_vrpRl13_C_ALTR_100_P_0.2_80419.pt"
+    }
+  ],
+  "commit": "8fd1e83faeb0ecff7986c4e5993f7398e6b6b6f8"
+}

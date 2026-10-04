@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "phase": "exploratory-pilot",
+  "root_seed": 2026100304,
+  "blueprint": "ALTR_100",
+  "K": 20,
+  "instances": 32,
+  "development_instances": 24,
+  "state_steps": [50, 200],
+  "slots": 16,
+  "A_repeats": 32,
+  "B_repeats": 128,
+  "folds": 4,
+  "model_grid": {"ridge_alpha": [0.01, 0.1, 1.0], "tree_depth": [2, 3], "tree_min_leaf": [16, 32]},
+  "caps": {"states": null, "collect-dev-a": null, "collect-test-a": null, "collect-test-b": null, "benchmark": null},
+  "batch_size": 16,
+  "device": "cuda",
+  "torch_threads": 1,
+  "pointer_hidden_size": 128,
+  "bootstrap_repeats": 2000,
+  "checkpoint": "trained_models/cvrp/altr_C_100/model_incumbent_vrpRl13_C_ALTR_100_P_0.2_80419.pt",
+  "checkpoint_sha256": "777178c30819f73b387674c29a2430cc06b0fda876792d5e08137d5ea3f94cf8"
+}

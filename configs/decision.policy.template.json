@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "min_gain_pp": null,
+  "max_online_repair_ratio": null,
+  "note": "Fill after development/benchmark review and before freezing test predictions. Engineering thresholds, not universal scientific constants."
+}
